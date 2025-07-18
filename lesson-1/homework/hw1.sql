@@ -32,3 +32,5 @@ select* from students
 insert into students (id, name,age) values (1, Ali, 20) 
 insert into students (id, name,age) values (2, Vali, 22) 
 insert into students (id, name,age) values (1, Mali, 19)
+
+given database restored into my computer
